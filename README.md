@@ -13,6 +13,15 @@ kaniko-remote build -t registry.fish/my/cool-image:latest .
 
 ## Config
 > **_NOTE:_**  The note content.
+
+---
+**NOTE**
+
+It works with almost all markdown flavours (the below blank line matters).
+
+---
+
+
 kaniko-remote will check for a configuration file in the following locations, using the first it finds. The configuration in use at run time is logged for easy confirmation.
 1. The path specified by the env var `KANIKO_REMOTE_CONFIG` if it is set.
 1. The `.kaniko-remote.yaml` file in the current working directory.
