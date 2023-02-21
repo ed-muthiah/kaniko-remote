@@ -1,6 +1,7 @@
 # kaniko-remote
 
 > **Note**
+> 
 > This is a note
 
 
@@ -76,7 +77,11 @@ auth:
   # By default there are none, which is unlikely to work in a production setting.
   # See below for available options
 ```
+> **Note**
+> This is a note
 
+> **Warning**
+> This is a warning
 An example config that I use:
 
 ```yaml
