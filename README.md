@@ -4,7 +4,18 @@
 > 
 > This is a note
 
+> **Info**
+> 
+> This is Info
 
+
+> **Information**
+> 
+> This is Info
+
+> **Warning**
+> 
+> This is a note
 
 
 Enable familiar `docker build` semantics using kaniko remotely on a preconfigured k8s cluster
